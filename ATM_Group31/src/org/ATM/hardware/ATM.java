@@ -7,6 +7,8 @@ public class ATM {
 
 	public int getId() {
 		return this.id;
+		
+		
 	}
 
 	public Bank getBank() {
